@@ -4,15 +4,12 @@ using System.Text;
 using System.Data;
 using System.Data.Odbc;
 
-/*
-* 版  权 ： Copyright by Liuxx of Victorysoft
-* 版  本 ： Version 0.0.1
-* 文  件 ： ConnOdbc.cs
-* 用  途 ： 
-* 作  者 ： Liu Xinxue
-* 邮  箱 ： lxx_@163.com
-* 修  改 ：
-*/
+/// <summary>
+/// 功能描述：通过ConnOdbc连接数据库，实现查询与更新数据库操作
+/// 创建日期：2005年11月
+/// 创建作者：刘新学 lxx_@163.com
+/// 版本所有：东营市新视野软件有限公司
+/// </summary>
 namespace Newsoft.DBConn
 {
     public class ConnOdbc
